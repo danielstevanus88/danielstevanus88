@@ -15,23 +15,12 @@
 
 ## 🛠️ Skills
 
-### **Programming Languages**
-- Python, C, C++, C#, Java, PHP, Javascript, R
-
-### **Web Development**
-- HTML, CSS, Javascript, React.js, Express.js, Python Flask, PHP Laravel
-
-### **App Development**
-- Java (Android Studio), Kodular, Firebase
-
-### **Game Development**
-- C# (Unity), Blender 3D
-
-### **Database**
-- MySQL, SQLite
-
-### **Tools & Frameworks**
-- Agile (Scrum), Git, JUnit Test
+- **Programming Languages:** Python, C, C++, C#, Java, PHP, Javascript, R  
+- **Web Development:** HTML, CSS, React.js, Express.js, Flask, Laravel  
+- **App Development:** Android Studio, Kodular, Firebase  
+- **Game Development:** Unity, Blender 3D  
+- **Database:** MySQL, SQLite  
+- **Tools & Frameworks:** Git, JUnit Test, Agile (Scrum)
 
 ---
 
@@ -48,14 +37,6 @@ Selected among 38 submissions and showcased to Maplexcellence.
 ### [📚 CSCB20 Course Management Webpage](https://github.com/danielstevanus88/CSCB20)
 **A dynamic course webpage with efficient database queries**  
 **Tech Stack:** Python Flask, SQLite, HTML, Javascript  
-
----
-
-## 🏆 Awards
-- **Full Scholarship - Beasiswa Indonesia Maju**  
-  > Over $300,000 awarded by the Indonesia Ministry of Education, Culture, Research, and Technology  
-- **Best Category: Sustainability at Davinci Hackathon 2024**
-
 ---
 
 _✨ Always exploring innovative ways to solve problems and contribute to impactful projects!_
