@@ -37,6 +37,6 @@ Selected among 38 submissions and showcased to Maplexcellence.
 ### [📚 CSCB20 Course Management Webpage](https://github.com/danielstevanus88/CSCB20)
 **A dynamic course webpage with efficient database queries**  
 **Tech Stack:** Python Flask, SQLite, HTML, Javascript  
----
 
+---
 _✨ Always exploring innovative ways to solve problems and contribute to impactful projects!_
