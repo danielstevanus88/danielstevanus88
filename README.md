@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Daniel Stevanus
 
-🎓 **HBSc. Candidate in Software Engineering and Statistics**  
-📍 Toronto, Canada  
+🎓 **HBSc. Candidate in Computer Science, Specialist in Software Engineering and Major in Statistics**  
+📍 University of Toronto, Canada  
 📫 [daniel.stevanus@mail.utoronto.ca](mailto:daniel.stevanus@mail.utoronto.ca) | 📱 437-663-6072  
 
 ---
